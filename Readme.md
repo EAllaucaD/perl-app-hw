@@ -39,13 +39,18 @@ You need:
 
 ### Download image
 ```
-    docker pull edwinallauca/app-perl
+    docker pull edwinallauca/app-perl:v2.0
 ```
 
 ### View the results
 You can open de CMD and run this :
 ```
     docker run -it hello-world-perl
+```
+
+or
+```
+    docker run -it edwinallauca/app-perl:v2.0
 ```
 With this command you will verify that you have the image in your docker.
 
