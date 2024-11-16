@@ -12,7 +12,7 @@ use HTTP::Server::Simple::CGI;
         my ($self, $cgi) = @_;
         print "HTTP/1.0 200 OK\r\n";
         print $cgi->header('text/plain');
-        print "Hello World with Perl - Edwin Allauca\n";
+        print "Hello World\n";
     }
 }
 
