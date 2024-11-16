@@ -31,43 +31,6 @@ In this link you can download:
      perl app.pl
     ```
 
-## How to run with Dokcker
-You need:
-
-* Docker - DockerDesktop installed
-* DockerHub account
-
-### Download image
-```
-    docker pull edwinallauca/app-perl:v2.0
-```
-
-### View the results
-You can open de CMD and run this :
-```
-    docker run -it hello-world-perl
-```
-
-or
-```
-    docker run -it edwinallauca/app-perl:v2.0
-```
-With this command you will verify that you have the image in your docker.
-
-You see the print in your browser: 
-
-
-```
-  localhost:8081  
-```
-
-## Image in DockerHub
-
-You need account in Docker Hub and update your perl Image.
-
-
-![image](https://github.com/user-attachments/assets/0e197015-14aa-44aa-b4fd-9bfbb80b2f11)
-
 ## How Deploy with Render:
 
 You need to link your Github account.
