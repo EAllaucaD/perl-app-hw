@@ -1,5 +1,12 @@
 # About the project
 
+## **🚨Attention! 🚨**
+
+This is an important message related to the project. Please read it carefully before proceeding.
+
+- **Main Branch:** [In this branch, you will find the app with Dockerfile and uploaded to DockerHub].
+
+
 # Hello world with Perl
 
 
